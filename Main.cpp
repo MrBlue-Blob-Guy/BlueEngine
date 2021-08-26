@@ -7,8 +7,8 @@
 #include"VBO.h"
 #include"EBO.h"
 
-const int WINDOW_HEIGHT = 300;
-const int WINDOW_WIDTH = 300;
+const int WINDOW_HEIGHT = 550;
+const int WINDOW_WIDTH = 600;
 
 // Vertices coordinates
 GLfloat vertices[] =
