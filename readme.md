@@ -10,7 +10,7 @@
 <!--Compile Dependencies -->
 ### Compile Dependencies
 <details open = "open">
-    <summary><h2 style = "display : inline-block">Dependencies</summary>
+    <summary>Dependencies</summary>
         <ol>
             <li><a href = "https://www.glfw.org/"> GLFW </a></li>
             <li><a href = "https://glad.dav1d.de/generated/tmpzn00hy3xglad/"> GLAD </a></li>
